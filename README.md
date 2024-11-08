@@ -14,3 +14,12 @@ This project demonstrates building a chatbot using Amazon Lex with custom slots 
 - Enable natural language processing with Amazon Lex.
 - Integrate with AWS Lambda for backend functions.
 - Use custom and multiple slots to handle user input.
+
+
+## Project Outcome
+The chatbot was successfully deployed, allowing users to check account balances and handle follow-up queries through Amazon Lex and Lambda.
+
+## Key Takeaways
+- Learned how to configure and customize Amazon Lex slots.
+- Implemented backend processing with AWS Lambda to handle dynamic responses.
+- Improved my understanding of cloud-based chatbot development.
